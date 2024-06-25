@@ -16,8 +16,6 @@ Next Marketplace App. This project demonstrates the integration of a React.js fr
 - [Installation](#installation)
 - [Usage](#usage)
 - [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
